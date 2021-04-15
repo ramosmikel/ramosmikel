@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Check out my blog 👇
+
+<a href="https://blog.mikelramos.com" target="_blank">blog.mikelramos.com</a>
+
 <!--
 **ramosmikel/ramosmikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
