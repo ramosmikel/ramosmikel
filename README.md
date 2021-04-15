@@ -1,8 +1,12 @@
-### Hi there 👋
+### <i>Hi there 👋</i>
 
-### Check out my blog 👇
+## Check out my blog 👇
 
 <a href="https://blog.mikelramos.com" target="_blank">blog.mikelramos.com</a>
+
+## Or my portfolio 😄
+
+<a href="https://mikelramos.com" target="_blank">mikelramos.com</a>
 
 <!--
 **ramosmikel/ramosmikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
