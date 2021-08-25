@@ -56,11 +56,6 @@
   <img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-### Stats
-
-<a href="https://github.com/ramosmikel" target="_blank">
-  <img alt="jTanG0506" src="https://badges.pufler.dev/visits/ramosmikel/ramosmikel?logo=GitHub&label=visits&color=success&logoColor=white&style=for-the-badge"/>
-</a>
 <!--
 **ramosmikel/ramosmikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
