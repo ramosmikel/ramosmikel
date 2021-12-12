@@ -1,7 +1,5 @@
 ### <i>Hi there 👋</i>
 
-🧑🏻‍💻 I'm currently looking for a job as a Frontend Software Engineer
-
 🎓 Self-taught
 
 
